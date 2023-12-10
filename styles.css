@@ -183,6 +183,11 @@ body {
   text-align: justify;
 }
 
+.skill_list {
+  color: var(--secondary-text-color);
+  list-style: none;
+}
+
 /* Experience and additional info styles */
 
 .experiences {

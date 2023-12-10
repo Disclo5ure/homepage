@@ -96,6 +96,16 @@ body {
 
 .contact-info__block--center {
   justify-content: center;
+  align-items: center;
+}
+
+.contact-info-block-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.links {
+  flex-direction: column;
 }
 
 .contact-info__item {
